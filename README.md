@@ -13,6 +13,7 @@
 ⚡ Fun fact **"Did you know? The 'Inception' movie's iconic horn sound was created using slowed-down versions of Edith Piaf's song 'Non, Je Ne Regrette Rien.'"**
 
 </div>
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
