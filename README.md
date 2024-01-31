@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Chatbot project**
+ 🔭 I’m currently working on **a Chatbot project🦜️🔗**
  
  🌱 I’m currently learning **AWS,Computer Vision,Hadoop,LLM,ML**
 
@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,mysql" />🦜️🔗<br>
+    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
 
