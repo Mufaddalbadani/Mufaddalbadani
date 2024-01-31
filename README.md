@@ -11,6 +11,7 @@
  🌱 I’m currently learning **AWS,Computer Vision,Hadoop,LLM,ML**
 
 ⚡ Fun fact **"Did you know? The 'Inception' movie's iconic horn sound was created using slowed-down versions of Edith Piaf's song 'Non, Je Ne Regrette Rien.'"**
+
 </div>
 <br/>
 
